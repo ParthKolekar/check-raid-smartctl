@@ -1,3 +1,5 @@
+# Copy to /etc/sudoers.d/nrpe
+
 # Allows running a script as root with any arguments
 # THIS COULD BE DANGEROUS AND IS _NOT_ RECOMMENDED
 nrpe   ALL=(root)  NOPASSWD: /usr/sbin/smartctl
