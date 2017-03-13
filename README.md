@@ -1,5 +1,7 @@
-check_raid
-==========
+check_raid (OLD)
+================
+
+This is a backport to `python2`. Please do not use this. Use the `master` branch.
 
 Checks RAID array via `smartctl` from package `smartmontools` to give a nagios format output.
 
